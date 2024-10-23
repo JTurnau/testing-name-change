@@ -12,7 +12,7 @@ title                    : "Justin Turnau"
 title_separator          : "-"
 name                     : &name "Justin Turnau"
 description              : &description "An aspiring reinforcement learning expert and intermediate chess player."
-url                      : https://github.com/jturnau/jturnau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.com/JTurnau/JTurnau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JTurnau/JTurnau.github.io"
 
