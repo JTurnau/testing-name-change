@@ -11,54 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Arizona State University, 2028 (expected)
+* B.S. in COmputer Science, University of Cincinnati, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Research Assistant
+  * Conduct a comprehensive literature review and write sections for a survey on techniques which bridge
+the gap between simulation and reality
+  * Contribute to multi-agent reinforcement learning research focused on bridging the gap between
+simulation and reality for traffic signal control
+  * Conduct a literature review for multi-agent reinforcement learning techniques and open challenges to
+generate novel ideas
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Teaching Assistant
+  * Assist in teaching a graduate-level data mining course with content on classification, model selection /
+hyperparameter tuning, data clustering, and dimensionality reduction
+  * Hold office hours to support students in understanding course materials and completing assignments
+  * Taught lecture on deep neural networks and the transformer architecture
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Fall 2022- Spring 2024: Undergraduate Researcher
+  * Conducted research focused on advancing the field of explainable machine learning through the
+development of provenance-based explanations
+  * Critically analyzed and implemented various machine learning explanation methods, delving into their
+mathematical foundations to inform the development of novel explanation methods
+  * Applied our novel methods to classic supervised learning models, enhancing model explainability
+  * Modified an existing system to transform machine learning queries into Datalog queries that also
+capture provenance and compute explanations
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Techincal: Python, PyTorch, TensorFlow, Keras, Scikit Learn, C++, Matlab, Prolog, Datalog, SQL
+* Language: Mandarin Chinese (beginner)
 
-Publications
+Publications & Presentations
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Presented paper at International Workshop on Databases and Machine Learning (DBML 2023), Anaheim, CA.
